@@ -7,9 +7,9 @@ Web Developer
 I have been learning to code in Python, JavaScript, Django, Vue.js, HTML and CSS. After working in the movie industry, I am excited to start a new chapter in the tech industry. I am ready to be a valuable asset to your team.
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [josseperez.com](http://https://josseperez.com/)
+* 🖥️  See my portfolio at [josseperez.com](https://josseperez.com/)
 * ✉️  You can contact me at [perez.josse@hotmail.com](mailto:perez.josse@hotmail.com)
-* 🚀  I'm currently working on [BookQuest](http://https://bookquest-bookshelf.herokuapp.com/)
+* 🚀  I'm currently working on [BookQuest](https://bookquest-bookshelf.herokuapp.com/)
 * 🧠  I'm learning React.js
 * ⚡  I'm always interested in learning new technologies.
 
